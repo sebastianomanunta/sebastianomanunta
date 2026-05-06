@@ -1,29 +1,51 @@
-# Ciao! 👋 Sono [Tuo Nome e Cognome]
+# Hi there! 👋 I'm [Sebastiano Manunta]
 
-🎓 **Studente di Ingegneria Gestionale** presso l'Università degli Studi di Cagliari (UNICA).
-
-Appassionato di ottimizzazione dei processi, management e innovazione tecnologica. Sto iniziando il mio percorso nel mondo della programmazione per unire le competenze ingegneristiche e manageriali con l'analisi dei dati e l'automazione.
-
-### 🚀 Cosa sto facendo adesso
-* 🐍 Sto imparando **Python** (Attualmente esplorando: *Funzioni e logica di base*).
-* 📚 Sto studiando per i miei esami del primo anno di Ingegneria.
-* ⚙️ Esplorando come l'informatica può ottimizzare i processi logistici e industriali.
-
-### 🎯 I miei obiettivi futuri
-* Padroneggiare librerie Python per l'Analisi Dati (come Pandas e NumPy).
-* Imparare ad automatizzare task ripetitivi (automazione Excel/fogli di calcolo tramite codice).
-* Applicare la programmazione alla Ricerca Operativa e all'ottimizzazione aziendale.
-
-### 🛠️ Strumenti e Linguaggi
-<!-- Qui usiamo dei badge grafici carini per mostrare cosa usi -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 📫 Come contattarmi
-* **LinkedIn:** [Inserisci qui il link al tuo profilo LinkedIn]
-* **Email:** [La tua email universitaria o personale]
+* 🎓 **Management Engineering Student** at the University of Cagliari (UNICA)
+* 💻 **Technical IT Background** with a focus on Software Development and Automation
 
 ---
-💡 *"L'efficienza è fare le cose bene; l'efficacia è fare le cose giuste."* - Peter Drucker
+### 🛠️ Technical Background & Expertise
+
+*   **Software Development (High School):** Graduated from a Technical IT Institute with experience in **Object-Oriented Programming (OOP)** using **C#** and **Visual Studio IDE**.
+*   **Current University Focus:** Transitioning to **Python** (currently using **Thonny** at UNICA) with a strong focus on functions, algorithms, and logic.
+*   **Automation & APIs:** Developed **Telegram Bots** using **API Tokens** and **JSON** for data persistence and storage.
+   
+### 🚀 Currently working on
+* 🐍 Mastering Python fundamentals (Functions, Logic, Data Structures).
+* 📝 Academic reporting and technical writing with **LaTeX**.
+* 🎨 Experimenting with **Creative Coding** and Touch Design using Python.
+---
+
+### 📚 Academic Progress
+
+**✅ Passed Exams:**
+* Mathematical Analysis I
+* Physics I
+* Statistics I
+* Linear Algebra and Geometry
+* Principles of Economics
+* Decision-Making Methods for Economics
+
+**⏳ Currently Studying:**
+* Fundamentals of Computer Science (Python focus)
+* Physics II
+* Materials Technology
+* Chemistry
+
+### 🎯 Future Goals
+* Learn Python libraries for Data Science (**NumPy** for math and **Pandas** for data manipulation).
+* Apply my IT background to **Operations Research** and supply chain optimization.
+* Develop automation tools for business management.
+
+### 🛠️ Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 How to reach me
+* **LinkedIn:** [www.linkedin.com/in/sebastiano-manunta-05b5b4266]
+* **X:** [https://x.com/sebmanunta]
+
+---
