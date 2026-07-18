@@ -25,11 +25,11 @@
 * Linear Algebra and Geometry
 * Principles of Economics
 * Decision-Making Methods for Economics
-
-**⏳ Currently Studying:**
 * Fundamentals of Computer Science (Python focus)
 * Physics II
 * Materials Technology
+
+**⏳ Currently Studying:**
 * Chemistry
 
 ### 🎯 Future Goals
